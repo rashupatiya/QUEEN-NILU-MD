@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = 'QueenNilu;;;834WCZqJ#F2j02KwvESmFW2s2SSMMnf3Uq1y_halHphnzkaCA-ls' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;xuJgxLZK#sYjcN7Y9AeyKrTB0Dgsiz1qyqvNHmunJcxr_EYmenXI' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
 global.POSTGRESQL_URL = 'postgres://rashu_wtqr_user:IZAzH678DZDCDb1N4jahwA7VIH6x0ngz@dpg-cl36699novjs73bcgl50-a.frankfurt-postgres.render.com/rashu_wtqr'
@@ -23,15 +23,15 @@ global.POSTGRESQL_URL = 'postgres://rashu_wtqr_user:IZAzH678DZDCDb1N4jahwA7VIH6x
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94779122081'
+global.OWNER_NUMBER = '94762021150'
 
-global.OWNER_NAME = 'RASHU-REMIX'
+global.OWNER_NAME = 'RASHU-MUSIC'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = 'YOUR BLOCK!!!' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = '```NO INBOX YOUR BLOCK!!!```' // Inboc Block Message
 
-global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
+global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
@@ -45,7 +45,7 @@ global.BOT_NAME = 'ǫᴜᴇᴇɴ ʀᴀꜱʜᴜ'
 
 global.FOOTER = 'Queen Nilu 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@RASHU REMIX 🤹‍♂️' //sticker
 
